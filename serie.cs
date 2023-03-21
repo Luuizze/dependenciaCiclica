@@ -1,3 +1,4 @@
+using System;
 public class Serie
 {
     private CatalogoMediador mediador;

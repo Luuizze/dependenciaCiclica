@@ -1,3 +1,4 @@
+using System;
 public class Filme
 {
     private CatalogoMediador mediador;
